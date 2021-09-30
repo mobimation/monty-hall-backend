@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "homepage": "http://mobimation.github.io/monty-hall"
+  "homepage": "http://mobimation.github.io/monty-hall",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
