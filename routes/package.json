@@ -1,0 +1,22 @@
+{
+  "name": "montyhall",
+  "version": "1.0.0",
+  "description": "a node package that models the monty hall problem from probability",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "keywords": [
+    "probability",
+    "statistics"
+  ],
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/rauljordan/montyhall.js.git"
+  },
+  "author": "rauljordan",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "*"
+  }
+}
