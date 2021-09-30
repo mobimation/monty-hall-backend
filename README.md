@@ -39,7 +39,7 @@ Värdet i procent visas i frontend UI avrundat till 2 decimaler.
 
 Annars vettig kultur är att göra en fork på komponenten och återmata
 ändringen till författaren. Nu verkar det vara 6 år sedan 'montyhall' senast
-underhölls men jag ju kontakta och nämna min feature update:
+underhölls men jag kan ju kontakta och nämna min feature update:
 https://github.com/rauljordan/montyhall
 
 BUGGAR:
