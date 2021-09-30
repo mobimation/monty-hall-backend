@@ -1,4 +1,6 @@
-
+Den här README-fílen dokumenterar npmjs-komponenten "montyhall" som används som simulering-bibliotek i den här lösningen.  Jag antog att det var rimligt att man skall se sig omkring om det redan finns implementationer av själva simuleringen.  Och det gjorde det här.
+Den simulatorn hade en begränsning att resultatet endast redovisades som en pratsam textsträng som inte passade bra i uppgiften.
+Då jag gjorde tillägg i simulator-koden så resultatet läggs som parametrar i JSON-format innan det returneras till frontend. Simulatorn redovisar sannolikheten i procent att deltagaren i spelet får en öppnad lucka med vinst.
 
 
 # Monty Hall Problem
